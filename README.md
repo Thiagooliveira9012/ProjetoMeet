@@ -7,6 +7,6 @@ Este projeto foi criado em sala de aula parar exercitar tecnologias.
 ```shell
 git clone https://github.com/Thiagooliveira9012/ProjetoMeet.git
 ```
-Então abra arquivo index.html locaizado na pasta
+Então abra arquivo index.html locaizado na pasta raiz.
 
 
